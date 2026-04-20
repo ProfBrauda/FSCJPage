@@ -1,1 +1,1 @@
-The URL is https://github.com/ProfBrauda/FSCJPage
+The URL is https://profbrauda.github.io/FSCJPage/
